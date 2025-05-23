@@ -18,7 +18,7 @@ This project is a **Retrieval-Augmented Generation (RAG) Chatbot** that allows u
 ### 1. Clone the repo 
 
 ```bash
-git clone https:// github.com
+git clone https:// github.com](https://github.com/JulietaCCollado/RAG-QABot-.git
 ```
 ### 2. Create and activate a virtual environment
 
